@@ -3,7 +3,7 @@ Descripcion General : Evaluación de Calidad y Preparación de Datos
 Integrantes:
 
 Amaro Erices – amaro.erices2201@alumnos.ubiobio.cl
-Felipe Faundez – felipe.faundez2301@alumnos.ubiobio.cl
+Felipe Faúndez – felipe.faundez2301@alumnos.ubiobio.cl
 Massimiliano Caffarena – massimiliano.caffarena2301@alumnos.ubiobio.cl
 Matias Arrepol – matias.arrepol2301@alumnos.ubiobio.cl
 

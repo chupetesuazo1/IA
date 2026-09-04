@@ -1,5 +1,11 @@
 Descripcion General : Evaluación de Calidad y Preparación de Datos
 
+Integrantes:
+
+Amaro Erices – amaro.erices2201@alumnos.ubiobio.cl
+Felipe Faundez – felipe.faundez2301@alumnos.ubiobio.cl
+Massimiliano Caffarena – massimiliano.caffarena2301@alumnos.ubiobio.cl
+Matias Arrepol – matias.arrepol2301@alumnos.ubiobio.cl
 
 # 1. Diagnóstico de Calidad de Datos
 Se realizó una auditoría profunda del dataset original (5,100 registros), identificando:
